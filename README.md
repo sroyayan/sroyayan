@@ -68,13 +68,7 @@ A futuristic operating-system-inspired personal developer portfolio.
 
 ---
 
-### ⬇️ DownTube
 
-A modern YouTube downloader application focused on a clean desktop experience.
-
-**Tech Stack:** Python • yt-dlp • FFmpeg • CustomTkinter
-
----
 
 ## 💻 Tech Stack
 
@@ -113,26 +107,16 @@ A modern YouTube downloader application focused on a clean desktop experience.
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.shion.dev/api?username=sroyayan&theme=dark&hide_border=false&include_all_commits=true&count_private=false"
-    height="180"
-    alt="GitHub Stats"
-  />
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=sroyayan&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=sroyayan&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sroyayan&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img
-    src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sroyayan&label=Profile%20views&color=0e75b6&style=flat" alt="sroyayan" /> </p>
