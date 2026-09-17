@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sroyayan/sroyayan/blob/main/banner.png.png" alt="GitHub Banner" style="width:100%; height:200px; object-fit:cover;" />
+  <img src="https://github.com/sroyayan/sroyayan/blob/main/banner.svg" alt="GitHub Banner" style="width:100%; height:200px; object-fit:cover;" />
 </p>
 
 
