@@ -2,7 +2,7 @@
   <img
     src="https://github.com/sroyayan/sroyayan/blob/main/pic.png"
     alt="AyanOS Banner"
-    width="50%"
+    width="100%"
   />
 </p>
 
