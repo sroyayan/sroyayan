@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://github.com/sroyayan/sroyayan/blob/main/ascii-art.svg"
+    src="https://github.com/sroyayan/sroyayan/blob/main/pic.PNG"
     alt="AyanOS Banner"
     width="50%"
   />
