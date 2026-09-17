@@ -1,6 +1,22 @@
-# 💫 About Me:
-🔭 **I’m currently working on**<br>LegalMetriX, an AI-powered compliance verification system for packaged commodities, and AyanOS, a futuristic OS-inspired developer portfolio.<br><br>👯 **I’m looking to collaborate on**<br>AI/ML, Cybersecurity, Open Source, and innovative software development projects.<br><br>🤝 **I’m looking for help with**<br>Machine Learning, Cybersecurity, System Design, and building scalable real-world applications.<br><br>🌱 **I’m currently learning**<br>Python, FastAPI, Machine Learning, Cybersecurity, React, Git/GitHub, and Data Structures & Algorithms.<br><br>💬 **Ask me about**<br>Python, AI & ML, FastAPI, GitHub, Tech Projects, College Life as a CSE (AI & ML) Student, and Productivity.<br><br>⚡ **Fun fact**<br>This too shall pass<br>
+<p align="center">
+  <img src="https://github.com/sroyayan/sroyayan/blob/main/banner.png.png" alt="GitHub Banner" style="width:100%; height:200px; object-fit:cover;" />
+</p>
 
+
+<h3 align="center">Aspiring ML Engineer | Python Developer | Cybersecurity Enthusiast</h3>
+
+<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/116207...g.gif">
+
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Engineering+Student;AI+%7C+ML+Enthusiast+%7C+Data+Analyst;Passionate+about+Tech+%26+Coding💻&center=true&width=500&height=45&color=FF61B0&vCenter=true&size=25" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/sroyayan/sroyayan/blob/main/assets/banner.gif" alt="Banner" width="100%" />
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/4yan_s.roy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sroyayan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayansingharoy7906@gmail.com) 
